@@ -14,7 +14,7 @@ The following are the commands I use to get the Python environment set up and wo
 cd nlp_suicide
 module load python/3.6-anaconda-4.4
 source activate myenv
-jupyter notebook --port 9998
+jupyter notebook --no-browser --port 9998
 ```
 
 Make sure that when you SSH into CORI, you are mapping remote port 9998 to your local port 9998:

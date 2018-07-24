@@ -9,4 +9,4 @@
 
 module load python/3.6-anaconda-4.4
 source activate myenv
-python Notes2Vect.py 50
+python Notes2Vect.py 200

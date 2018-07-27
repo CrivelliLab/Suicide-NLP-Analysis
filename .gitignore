@@ -1,3 +1,4 @@
 /data
 /models/*.w2v
 **.w2v
+**.npy
